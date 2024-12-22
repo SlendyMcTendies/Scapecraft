@@ -1,0 +1,149 @@
+{
+  "itemGroup.scapecraft": "ScapeCraft",
+
+  "block.scapecraft.runite_block": "Runite Block",
+  "block.scapecraft.raw_runite_block": "Raw Runite Block",
+  "block.scapecraft.runite_ore": "Runite Ore",
+
+  "block.scapecraft.adamantite_block": "Adamantite Block",
+  "block.scapecraft.raw_adamantite_block": "Raw Adamantite Block",
+  "block.scapecraft.adamantite_ore": "Adamantite Ore",
+  "block.scapecraft.deepslate_adamantite_ore": "Deepslate Adamantite Ore",
+
+  "block.scapecraft.mithril_block": "Mithril Block",
+  "block.scapecraft.raw_mithril_block": "Raw Mithril Block",
+  "block.scapecraft.mithril_ore": "Mithril Ore",
+  "block.scapecraft.deepslate_mithril_ore": "Deepslate Mithril Ore",
+
+  "block.scapecraft.silver_block": "Silver Block",
+  "block.scapecraft.raw_silver_block": "Raw Silver Block",
+  "block.scapecraft.silver_ore": "Silver Ore",
+  "block.scapecraft.deepslate_silver_ore": "Deepslate Silver Ore",
+
+  "block.scapecraft.tin_block": "Tin Block",
+  "block.scapecraft.raw_tin_block": "Raw Tin Block",
+  "block.scapecraft.tin_ore": "Tin Ore",
+  "block.scapecraft.deepslate_tin_ore": "Deepslate Tin Ore",
+
+  "block.scapecraft.steel_block": "Steel Block",
+
+  "block.scapecraft.bronze_block": "Bronze Block",
+
+  "item.scapecraft.runite_ingot": "Runite Ingot",
+  "item.scapecraft.runite_scrap": "Runite Scrap",
+  "item.scapecraft.raw_runite": "Raw Runite",
+
+  "item.scapecraft.adamantite_ingot": "Adamantite Ingot",
+  "item.scapecraft.adamantite_scrap": "Adamantite Scrap",
+  "item.scapecraft.raw_adamantite": "Raw Adamantite",
+
+  "item.scapecraft.mithril_ingot": "Mithril Ingot",
+  "item.scapecraft.mithril_scrap": "Mithril Scrap",
+  "item.scapecraft.raw_mithril": "Raw Mithril",
+
+  "item.scapecraft.silver_ingot": "Silver Ingot",
+  "item.scapecraft.raw_silver": "Raw Silver",
+
+  "item.scapecraft.tin_ingot": "Tin Ingot",
+  "item.scapecraft.raw_tin": "Raw Tin",
+
+  "item.scapecraft.steel_ingot": "Steel Ingot",
+
+  "item.scapecraft.bronze_ingot": "Bronze Ingot",
+
+  "item.scapecraft.rune_sword": "Rune Sword",
+  "item.scapecraft.rune_pickaxe": "Rune Pickaxe",
+  "item.scapecraft.rune_shovel": "Rune Shovel",
+  "item.scapecraft.rune_axe": "Rune Axe",
+  "item.scapecraft.rune_hoe": "Rune Hoe",
+
+  "item.scapecraft.adamant_sword": "Adamant Sword",
+  "item.scapecraft.adamant_pickaxe": "Adamant Pickaxe",
+  "item.scapecraft.adamant_shovel": "Adamant Shovel",
+  "item.scapecraft.adamant_axe": "Adamant Axe",
+  "item.scapecraft.adamant_hoe": "Adamant Hoe",
+
+  "item.scapecraft.mithril_sword": "Mithril Sword",
+  "item.scapecraft.mithril_pickaxe": "Mithril Pickaxe",
+  "item.scapecraft.mithril_shovel": "Mithril Shovel",
+  "item.scapecraft.mithril_axe": "Mithril Axe",
+  "item.scapecraft.mithril_hoe": "Mithril Hoe",
+
+  "item.scapecraft.steel_sword": "Steel Sword",
+  "item.scapecraft.steel_pickaxe": "Steel Pickaxe",
+  "item.scapecraft.steel_shovel": "Steel Shovel",
+  "item.scapecraft.steel_axe": "Steel Axe",
+  "item.scapecraft.steel_hoe": "Steel Hoe",
+
+  "item.scapecraft.bronze_sword": "Bronze Sword",
+  "item.scapecraft.bronze_pickaxe": "Bronze Pickaxe",
+  "item.scapecraft.bronze_shovel": "Bronze Shovel",
+  "item.scapecraft.bronze_axe": "Bronze Axe",
+  "item.scapecraft.bronze_hoe": "Bronze Hoe",
+
+  "item.scapecraft.rune_helmet": "Rune Helmet",
+  "item.scapecraft.rune_chestplate": "Rune Chestplate",
+  "item.scapecraft.rune_leggings": "Rune Leggings",
+  "item.scapecraft.rune_boots": "Rune Boots",
+  "item.scapecraft.rune_horse_armor": "Rune Horse Armor",
+
+  "item.scapecraft.adamant_helmet": "Adamant Helmet",
+  "item.scapecraft.adamant_chestplate": "Adamant Chestplate",
+  "item.scapecraft.adamant_leggings": "Adamant Leggings",
+  "item.scapecraft.adamant_boots": "Adamant Boots",
+  "item.scapecraft.adamant_horse_armor": "Adamant Horse Armor",
+
+  "item.scapecraft.mithril_helmet": "Mithril Helmet",
+  "item.scapecraft.mithril_chestplate": "Mithril Chestplate",
+  "item.scapecraft.mithril_leggings": "Mithril Leggings",
+  "item.scapecraft.mithril_boots": "Mithril Boots",
+  "item.scapecraft.mithril_horse_armor": "Mithril Horse Armor",
+
+  "item.scapecraft.steel_helmet": "Steel Helmet",
+  "item.scapecraft.steel_chestplate": "Steel Chestplate",
+  "item.scapecraft.steel_leggings": "Steel Leggings",
+  "item.scapecraft.steel_boots": "Steel Boots",
+  "item.scapecraft.steel_horse_armor": "Steel Horse Armor",
+
+  "item.scapecraft.experimental_armor_trim_smithing_template": "Experimental Trim Template",
+  "trim_pattern.scapecraft.experimental": "Experimental Trim Pattern",
+  "trim_material.scapecraft.rune": "Rune Material",
+
+  "item.scapecraft.bronze_helmet": "Bronze Helmet",
+  "item.scapecraft.bronze_chestplate": "Bronze Chestplate",
+  "item.scapecraft.bronze_leggings": "Bronze Leggings",
+  "item.scapecraft.bronze_boots": "Bronze Boots",
+  "item.scapecraft.bronze_horse_armor": "Bronze Horse Armor",
+
+  "item.scapecraft.manta_ray": "Manta Ray",
+  "item.scapecraft.raw_manta_ray": "Raw Manta Ray",
+  "item.scapecraft.anglerfish": "Anglerfish",
+  "item.scapecraft.raw_anglerfish": "Raw Anglerfish",
+
+  "item.scapecraft.attack_icon": "Attack Icon",
+  "item.scapecraft.strength_icon": "Strength Icon",
+  "item.scapecraft.defence_icon": "Defence Icon",
+  "item.scapecraft.hitpoints_icon": "Hitpoints Icon",
+  "item.scapecraft.ranged_icon": "Ranged Icon",
+  "item.scapecraft.magic_icon": "Magic Icon",
+  "item.scapecraft.prayer_icon": "Prayer Icon",
+  "item.scapecraft.runecrafting_icon": "Runecrafting Icon",
+  "item.scapecraft.mining_icon": "Mining Icon",
+  "item.scapecraft.smithing_icon": "Smithing Icon",
+  "item.scapecraft.fishing_icon": "Fishing Icon",
+  "item.scapecraft.cooking_icon": "Cooking Icon",
+  "item.scapecraft.woodcutting_icon": "Woodcutting Icon",
+  "item.scapecraft.firemaking_icon": "Firemaking Icon",
+  "item.scapecraft.agility_icon": "Agility Icon",
+  "item.scapecraft.herblore_icon": "Herblore Icon",
+  "item.scapecraft.thieving_icon": "Thieving Icon",
+  "item.scapecraft.fletching_icon": "Fletching Icon",
+  "item.scapecraft.slayer_icon": "Slayer Icon",
+  "item.scapecraft.farming_icon": "Farming Icon",
+  "item.scapecraft.construction_icon": "Construction Icon",
+  "item.scapecraft.hunter_icon": "Hunter Icon",
+
+  "effect.scapecraft.heal_effect": "Heal",
+
+  "creativetab.scapecraft.scapecraft_smithing": "Scapecraft Smithing"
+}
